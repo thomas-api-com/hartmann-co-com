@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas Hartmann @hartmann-co-com. I am working as a lead software engineer. 
+- 👋 Hi, I’m Thomas Hartmann. I am working as a lead software engineer. 
 - 👀 I’m interested in 
   - Angular, React, Chakra UI
   - RxJS, RxJava
